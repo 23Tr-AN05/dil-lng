@@ -54,34 +54,48 @@
 
 <div id="turc" class="w3-container city">
    <p id="para1">Turc / Türkçe </p>
-   <p id="para3"><a href="tr/cdt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de Texte</u></font> </a>et<a href="tr/proverbe.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Proverbes</u></font></a>  . </p>
+   <p id="para3"><a href="tr/cdt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de Texte</u></font> </a>et<a href="tr/proverbes.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Proverbes</u></font></a>  . </p>
     <p id="para6">📁 Se présenter / kendini tanıtma</p>
       <ul>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+        <li><a href="mat/ " dowload="" target="_blank"><p id="para4">📄 Se présenter  </p></a></li>
+        <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
     </ul>
-    <p id="para6">📁 Kahvaltı</p>
+    <p id="para6">📁 Petit déjeuner / Kahvaltı</p>
      <ul>
+        <li><a href="tr/kahvalti.pdf " dowload="" target="_blank"><p id="para4">📄  Kahvaltı  </p></a></li>
+        <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
     </ul>
-    <p id="para6"> Günlük aktiviteler ve hobiler</p>
+    <p id="para6">📁 La journée et loisir / Günlük aktiviteler ve hobiler</p>
      <ul>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="tr/gnlk.pdf   " dowload="" target="_blank"><p id="para4">📄  Ma journée </p></a></li>
+        <li><a href="tr/hobi.pdf   " dowload="" target="_blank"><p id="para4">📄  Les loisirs </p></a></li>
+        <li><a href="tr/kenan.pdf " dowload="" target="_blank"><p id="para4">📄 Activité 1: Kenan  </p></a></li>
+        <li><a href="tr/ezgi.pdf " dowload="" target="_blank"><p id="para4">📄  Activité 2: Ezgi </p></a></li>
     </ul>
-    <p id="para6"> Mevsimler ; Meyve ve sebzeler</p>
+    <p id="para6">📁 Les chiffres /  Sayılar</p>
      <ul>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+        <li><a href="tr/syl.pdf   " dowload="" target="_blank"><p id="para4">📄 Les chiffres et les nombres </p></a></li>
+       <!-- <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
+    </ul>
+    <p id="para6">Saison; fruit et légumes / Mevsimler ; Meyve ve sebzeler</p>
+     <ul>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄 à venir   </p></a></li>
+        <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
+    </ul>
+    <p id="para6"> Grammaire /  dil bilgisi</p>
+     <ul>
+        <li><a href="tr/fiil.pdf" dowload="" target="_blank"><p id="para4">📄 Conjugaison - Présent </p></a></li>
+        <li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à"</p></a></li>
+        <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
     </ul>
    <hr> 
   </div>
@@ -89,14 +103,14 @@
 <div id="français" class="w3-container city">
    <p id="para1">Fransızca / Français </p>
    <p id="para3"><a href="fr/ctd.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Ajanda</u></font> </a>ve<a href="fr/proverbe.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> deyimler</u></font></a>  . </p>
-    <p id="para6">📁 Chapitre 1:</p>
+    <p id="para6">📁 Kendimi tanıtıyorum</p>
       <ul>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
     </ul>
-    <p id="para6">📁 Chapitre 2:</p>
+    <p id="para6">📁 Cümle yapısı</p>
      <ul>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
