@@ -20,8 +20,8 @@
 
  <div class="w3-bar w3-black">
   <button class="w3-bar-item w3-button" onclick="openCity('Ac')">Acceuil</button>
-  <button class="w3-bar-item w3-button" onclick="openCity('Turc')">Turc</button>
-  <button class="w3-bar-item w3-button" onclick="openCity('Français')">Fransızca</button>
+  <button class="w3-bar-item w3-button" onclick="openCity('content-1')">Turc</button>
+  <button class="w3-bar-item w3-button" onclick="openCity('content-2')">Fransızca</button>
   <!-- <button class="w3-bar-item w3-button" onclick="openCity('Info')">Informatique</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Forum')">Forum</button>-->
  </div>
@@ -52,7 +52,7 @@
     <hr>
    </div>
 
-<div id="Turc" class="w3-container city" style="display:none">
+<div id="content-1" class="w3-container city" style="display:none">
  <div class="password-box" id="password-box-1">
                 <label for="password-1">Mot de passe:</label>
                 <input type="password" id="password-1">
@@ -93,7 +93,7 @@
    <hr> 
   </div>
 
-<div id="Fransızca" class="w3-container city" style="display:none">
+<div id="content-2" class="w3-container city" style="display:none">
    <p id="para1">Fransızca / Français </p>
    <p id="para3"><a href="fr/ctd.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Ajanda</u></font> </a>ve<a href="fr/proverbe.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> deyimler</u></font></a>  . </p>
     <p id="para6">📁 Chapitre 1:</p>
