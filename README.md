@@ -20,8 +20,8 @@
 
  <div class="w3-bar w3-black">
   <button class="w3-bar-item w3-button" onclick="openCity('Ac')">Acceuil</button>
-  <button class="w3-bar-item w3-button" onclick="showTab(1, 'w3-container-1')">Turc</button>
-  <button class="w3-bar-item w3-button" onclick="showTab(2, 'w3-container-2')">Fransızca</button>
+  <button class="w3-bar-item w3-button" onclick="openCity('turc')">Turc</button>
+  <button class="w3-bar-item w3-button" onclick="openCity('français')">Fransızca</button>
   <!-- <button class="w3-bar-item w3-button" onclick="openCity('Info')">Informatique</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Forum')">Forum</button>-->
  </div>
@@ -52,14 +52,7 @@
     <hr>
    </div>
 
-<div id="content-1" class="w3-container w3-container-1" style="display:none">
- <div class="password-box" id="password-box-1">
-                <label for="password-1">Mot de passe:</label>
-                <input type="password" id="password-1">
-                <button onclick="checkPassword(1)">Valider</button>
-                <div id="error-message-1" style="color: red; display: none;">Mot de passe incorrect.</div>
-            </div>
-      <div class="tab-content-content" id="content-1" style="display: none;">
+<div id="turc" class="w3-container city">
    <p id="para1">Turc / Türkçe </p>
    <p id="para3"><a href="tr/cdt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de Texte</u></font> </a>et<a href="tr/proverbe.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Proverbes</u></font></a>  . </p>
     <p id="para6">📁 Se présenter / kendini tanıtma</p>
@@ -93,7 +86,7 @@
    <hr> 
   </div>
 
-<div id="content-2" class="w3-container w3-container-2" style="display:none">
+<div id="français" class="w3-container city">
    <p id="para1">Fransızca / Français </p>
    <p id="para3"><a href="fr/ctd.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Ajanda</u></font> </a>ve<a href="fr/proverbe.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> deyimler</u></font></a>  . </p>
     <p id="para6">📁 Chapitre 1:</p>
