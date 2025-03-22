@@ -51,16 +51,30 @@
    </div>
 
 <div id="Turc" class="w3-container city" style="display:none">
-   <p id="para1">Turc  Türkçe </p>
-   <p id="para3"><a href="mat/6e/Programme_6.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/6e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
-    <p id="para6">📁 Chapitre 1:</p>
+   <p id="para1">Turc / Türkçe </p>
+   <p id="para3"><a href="tr/cdt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de Texte</u></font> </a>et<a href="tr/proverbe.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Proverbes</u></font></a>  . </p>
+    <p id="para6">📁 Se présenter / kendini tanıtma</p>
       <ul>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
     </ul>
-    <p id="para6">📁 Chapitre 2:</p>
+    <p id="para6">📁 Kahvaltı</p>
+     <ul>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul>
+    <p id="para6"> Günlük aktiviteler ve hobiler</p>
+     <ul>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul>
+    <p id="para6"> Mevsimler ; Meyve ve sebzeler</p>
      <ul>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
@@ -71,8 +85,8 @@
   </div>
 
 <div id="Fransızca" class="w3-container city" style="display:none">
-   <p id="para1">Fransızca Français </p>
-   <p id="para3"><a href="mat/6e/Programme_6.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/6e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
+   <p id="para1">Fransızca / Français </p>
+   <p id="para3"><a href="fr/ctd.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Ajanda</u></font> </a>ve<a href="fr/proverbe.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> deyimler</u></font></a>  . </p>
     <p id="para6">📁 Chapitre 1:</p>
       <ul>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
