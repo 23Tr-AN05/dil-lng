@@ -20,8 +20,8 @@
 
  <div class="w3-bar w3-black">
   <button class="w3-bar-item w3-button" onclick="openCity('Ac')">Acceuil</button>
-  <button class="w3-bar-item w3-button" onclick="openCity('content-1')">Turc</button>
-  <button class="w3-bar-item w3-button" onclick="openCity('content-2')">Fransızca</button>
+  <button class="w3-bar-item w3-button" onclick="showTab(1, 'w3-container-1')">Turc</button>
+  <button class="w3-bar-item w3-button" onclick="showTab(2, 'w3-container-2')">Fransızca</button>
   <!-- <button class="w3-bar-item w3-button" onclick="openCity('Info')">Informatique</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Forum')">Forum</button>-->
  </div>
