@@ -37,7 +37,7 @@
      </p></div>
      <p><font style="color:red"><b>L'onglet Forum</b> est actuellement <b>vide</b>, donc l'onglet est désactivé temporairement (je l'activerai dès lors que j'aurais une question posée)</font></p>
      </div>
-      <div style="border: 1px solid black; padding: 10px;">
+  <div style="border: 1px solid black; padding: 10px;">
   <p id="para2">Hoşgeldiniz!</p>
   <p id="para3">Bu site, fransızca öğrenenlere yardım amaçlı yapılmıştır. Bu sayfada,  kullanbileceğiniz fransızca üzerine bazı dersler ve alıştırmalar bulunmaktadır.</p>
     <div id="center">
