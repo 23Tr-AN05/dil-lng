@@ -59,7 +59,7 @@
                 <button onclick="checkPassword(1)">Valider</button>
                 <div id="error-message-1" style="color: red; display: none;">Mot de passe incorrect.</div>
             </div>
-      <div class="tab-content-content" id="content-1" style="display: none;">  <div class="tab-content-content" id="content-1" style="display: none;">
+      <div class="tab-content-content" id="content-1" style="display: none;">
    <p id="para1">Turc / Türkçe </p>
    <p id="para3"><a href="tr/cdt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de Texte</u></font> </a>et<a href="tr/proverbe.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Proverbes</u></font></a>  . </p>
     <p id="para6">📁 Se présenter / kendini tanıtma</p>
