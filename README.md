@@ -93,7 +93,7 @@
     <p id="para6"> Grammaire /  dil bilgisi</p>
      <ul>
         <li><a href="tr/fiil.pdf" dowload="" target="_blank"><p id="para4">📄 Conjugaison - Présent </p></a></li>
-        <li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à"</p></a></li>
+        <li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à" et l'ablatif "de"</p></a></li>
         <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
     </ul>
