@@ -23,7 +23,6 @@
   <!-- <button class="w3-bar-item w3-button" onclick="openCity('Info')">Informatique</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Forum')">Forum</button>-->
  </div>
- </div>
  <div id="Ac" class="w3-container city">
  <div style="border: 1px solid black; padding: 10px;">
   <p id="para2">Bienvenue</p>
@@ -38,7 +37,7 @@
      </div>
       <div style="border: 1px solid black; padding: 10px;">
   <p id="para2">Hoşgeldiniz!</p>
-  <p id="para3">Bu site, fransızca öğrenenlere yardım amaçlı yapılmıştır. Bu sayfada,  fransızca üzerine bazı dersler ve alıstırmalar bulunmaktadır.</p>
+  <p id="para3">Bu site, fransızca öğrenenlere yardım amaçlı yapılmıştır. Bu sayfada,  kullanbileceğiniz fransızca üzerine bazı dersler ve alıştırmalar bulunmaktadır.</p>
     <div id="center">
       <p id="para33">Si vous avez des questions vous pouvez envoyer un mail en choissisant la langue sur laquelle votre question se porte. Je vous réponderai plutôt possible par mail ou vous pouvez consulter l'onglet "forum", où je mettrais certaines questions avec leur réponse. 
        <br>&nbsp;&nbsp;&nbsp;⯑ &nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BMat%5D&body=J'ai%20une%20question%20sur%20le%20turc%20(ne%20changez%20pas%20l'objet%20du%20mail).">Turc / Türkçe</a>
@@ -50,3 +49,86 @@
      <p>--</p> 
     <hr>
    </div>
+
+<div id="Turc" class="w3-container city" style="display:none">
+   <p id="para1">Turc  Türkçe </p>
+   <p id="para3"><a href="mat/6e/Programme_6.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/6e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
+    <p id="para6">📁 Chapitre 1:</p>
+      <ul>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul>
+    <p id="para6">📁 Chapitre 2:</p>
+     <ul>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul>
+   <hr> 
+  </div>
+
+<div id="Fransızca" class="w3-container city" style="display:none">
+   <p id="para1">Fransızca Français </p>
+   <p id="para3"><a href="mat/6e/Programme_6.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/6e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
+    <p id="para6">📁 Chapitre 1:</p>
+      <ul>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul>
+    <p id="para6">📁 Chapitre 2:</p>
+     <ul>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul>
+   <hr> 
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <script>
+ function openCity(cityName) {
+  var i;
+  var x = document.getElementsByClassName("city");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  document.getElementById(cityName).style.display = "block";  
+ }
+ </script>
+  <script>
+ function myFunction(id) {
+  var x = document.getElementById(id);
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+    x.previousElementSibling.className = 
+    x.previousElementSibling.className.replace("w3-white", "w3-yellow");
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+    x.previousElementSibling.className = 
+    x.previousElementSibling.className.replace("w3-yellow", "w3-white");
+  }
+ }
+ </script>
