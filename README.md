@@ -54,7 +54,7 @@
 
 <div id="turc" class="w3-container city">
    <p id="para1">Turc / Türkçe </p>
-   <p id="para3"><a href="tr/cdt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de Texte</u></font> </a>et<a href="tr/proverbes.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Proverbes</u></font></a>  . </p>
+   <p id="para3"><a href="tr/cdt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de Texte</u></font>  </a>et  <a href="tr/proverbes.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Proverbes</u></font></a>  . </p>
     <p id="para6">📁 Se présenter / kendini tanıtma</p>
       <ul>
         <li><a href="mat/ " dowload="" target="_blank"><p id="para4">📄 Se présenter  </p></a></li>
@@ -102,7 +102,7 @@
 
 <div id="français" class="w3-container city">
    <p id="para1">Fransızca / Français </p>
-   <p id="para3"><a href="fr/ctd.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Ajanda</u></font> </a>ve<a href="fr/proverbe.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> deyimler</u></font></a>  . </p>
+   <p id="para3"><a href="fr/ctd.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Ajanda</u></font>  </a>ve  <a href="fr/proverbe.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> deyimler</u></font></a>  . </p>
     <p id="para6">📁 Kendimi tanıtıyorum</p>
       <ul>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
