@@ -3,11 +3,13 @@
  <head>
     <meta charset="utf-8"/>
     <link href="style.css" rel="stylesheet" type="text/css"/>
+    <link href="mps.css" rel="stylesheet" type="text/css"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
     <script src="s.js" data-import=""></script>
+    <script src="mps.js" data-import=""></script>
  </head>
  <body onload="body()">
  <center><h1 id="h1">Türkçe / Français </h1></center>
@@ -51,6 +53,12 @@
    </div>
 
 <div id="Turc" class="w3-container city" style="display:none">
+ <div class="password-box" id="password-box-1">
+                <label for="password-1">Mot de passe:</label>
+                <input type="password" id="password-1">
+                <button onclick="checkPassword(1)">Valider</button>
+                <div id="error-message-1" style="color: red; display: none;">Mot de passe incorrect.</div>
+            </div>
    <p id="para1">Turc / Türkçe </p>
    <p id="para3"><a href="tr/cdt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de Texte</u></font> </a>et<a href="tr/proverbe.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Proverbes</u></font></a>  . </p>
     <p id="para6">📁 Se présenter / kendini tanıtma</p>
