@@ -18,7 +18,7 @@
         <!-- <button class="w3-bar-item w3-button" onclick="openCity('Info')">Informatique</button>
         <button class="w3-bar-item w3-button" onclick="openCity('Forum')">Forum</button>-->
       </div>
-   <div id="Ac" class="w3-container city"   style="display:none">
+   <div id="Ac" class="w3-container city" >
      <div style="border: 1px solid black; padding: 10px;">
       <p id="para2">Bienvenue</p>
       <p id="para3">Ce est destiné aux gens qui apprennent le turc avec moi, ainsi sur ce site, vous trouverez les cours de turc et leur correction.</p>
@@ -45,7 +45,7 @@
     <hr>
  </div>
 
- <div id="turc" class="w3-container city">
+ <div id="turc" class="w3-container city"  style="display:none">
    <p id="para1">Turc / Türkçe </p>
    <p id="para3"><a href="tr/cdt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de Texte</u></font>  </a>et  <a href="tr/proverbes.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Proverbes</u></font></a>  . </p>
     <p id="para6">📁 Se présenter / kendini tanıtma</p>
@@ -93,7 +93,7 @@
    <hr> 
  </div>
 
- <div id="français" class="w3-container city">
+ <div id="français" class="w3-container city"  style="display:none">
    <p id="para1">Fransızca / Français </p>
    <p id="para3"><a href="fr/ctd.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Ajanda</u></font>  </a>ve  <a href="fr/proverbe.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> deyimler</u></font></a>  . </p>
     <p id="para6">📁 Cümle yapısı</p>
