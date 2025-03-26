@@ -18,7 +18,7 @@
         <!-- <button class="w3-bar-item w3-button" onclick="openCity('Info')">Informatique</button>
         <button class="w3-bar-item w3-button" onclick="openCity('Forum')">Forum</button>-->
       </div>
-   <div id="Ac" class="w3-container city">
+   <div id="Ac" class="w3-container city"   style="display:none">
      <div style="border: 1px solid black; padding: 10px;">
       <p id="para2">Bienvenue</p>
       <p id="para3">Ce est destiné aux gens qui apprennent le turc avec moi, ainsi sur ce site, vous trouverez les cours de turc et leur correction.</p>
