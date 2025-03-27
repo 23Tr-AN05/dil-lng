@@ -49,6 +49,10 @@
  <div id="turc" class="w3-container city"  style="display:none">
    <p id="para1">Turc / Türkçe </p>
    <p id="para3"><a href="tr/cdt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de Texte</u></font>  </a>et  <a href="tr/proverbes.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Proverbes</u></font></a>  . </p>
+   <p id="para6">📁Français VS Turc </p>
+   <ul>
+        <li><a href="tr/FrvsTr(fr).pdf" dowload="" target="_blank"><p id="para4">📄 Français VS Turc  </p></a></li>
+    </ul>
     <p id="para6">📁 Se présenter / kendini tanıtma</p>
       <ul>
         <li><a href="mat/ " dowload="" target="_blank"><p id="para4">📄 Se présenter  </p></a></li>
@@ -77,14 +81,14 @@
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
     </ul>
-    <p id="para6">Saison; fruit et légumes / Mevsimler ; Meyve ve sebzeler</p>
+    <p id="para6">📁 Saison; fruit et légumes / Mevsimler ; Meyve ve sebzeler</p>
      <ul>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄 à venir   </p></a></li>
         <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
     </ul>
-    <p id="para6"> Grammaire /  dil bilgisi</p>
+    <p id="para6">📁 Grammaire /  dil bilgisi</p>
      <ul>
         <li><a href="tr/fiil.pdf" dowload="" target="_blank"><p id="para4">📄 Conjugaison - Présent </p></a></li>
         <li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à" et l'ablatif "de"</p></a></li>
@@ -99,23 +103,23 @@
    <p id="para3"><a href="fr/ctd.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Ajanda</u></font>  </a>ve  <a href="fr/proverbe.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> deyimler</u></font></a>  . </p>
     <p id="para6">📁 Cümle yapısı</p>
       <ul>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄 Türkçe VS Fransızca   </p></a></li>
+        <li><a href="fr/FrvsTr.pdf" dowload="" target="_blank"><p id="para4">📄 Türkçe VS Fransızca   </p></a></li>
         <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
     </ul>
     <p id="para6">📁 Kendimi tanıtıyorum</p>
       <ul>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄 Ken  </p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="fr/1    " dowload="" target="_blank"><p id="para4">📄 Fransızca kendini tanıtma   </p></a></li>
+        <li><a href="fr    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
     </ul>
     <p id="para6">📁 Cümle yapısı</p>
      <ul>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
     </ul>
    <hr> 
