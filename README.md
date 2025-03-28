@@ -116,12 +116,12 @@
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
     </ul>
     <p id="para6">📁 Cümle yapısı</p>
-     <ul>
+    <!-- <ul>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-    </ul>
+    </ul>-->
    <hr> 
  </div>
 
