@@ -124,7 +124,7 @@
     </ul>
     <p id="para6">📁 Atelier d'écriture / Yazma atölyesi</p>
      <ul>
-        <li><a href="fr/ecriture/Vater_und_Sohn_tr.pdf" dowload="" target="_blank"><p id="para4">📄 <i> Vater und Sohn / Baba ve Oğul </p></a></li>
+        <li><a href="fr/ecriture/Vater_und_Sohn_tr.pdf" dowload="" target="_blank"><p id="para4">📄 <i> Vater und Sohn / Baba ve Oğul</i></p></a></li>
         <li><a href="fr/ecriture/Vater_und_Sohn_talimat.pdf" dowload="" target="_blank"><p id="para4">📄  Talimatlar</p></a></li>
         <li><a href="fr/ecriture/Vater_und_Sohn.pdf " dowload="" target="_blank"><p id="para4">📄 Çizgi romanlar  </p></a></li>
         <!--<li><a href="fr/ " dowload="" target="_blank"><p id="para4">📄 Örnek  </p></a></li>-->
