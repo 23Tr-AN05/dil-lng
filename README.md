@@ -88,6 +88,13 @@
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
     </ul>
+   <p id="para6">📁 Atelier d'écriture / Yazma atölyesi</p>
+     <ul>
+        <li><a href="tr/yazma/Vater_und_Sohn_fr.pdf" dowload="" target="_blank"><p id="para4">📄  Vater und Sohn / Baba ve Oğul   </p></a></li>
+        <li><a href="tr/yazma/Vater_und_Sohn_consigne.pdf" dowload="" target="_blank"><p id="para4">📄 Consignes</p></a></li>
+        <li><a href="tr/yazma/Vater_und_Sohn.pdf" dowload="" target="_blank"><p id="para4">📄 Les histoires </p></a></li>
+        <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄 Exemple  </p></a></li>-->
+    </ul>
     <p id="para6">📁 Grammaire /  dil bilgisi</p>
      <ul>
         <li><a href="tr/fiil.pdf" dowload="" target="_blank"><p id="para4">📄 Conjugaison - Présent </p></a></li>
@@ -115,8 +122,15 @@
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
     </ul>
-    <p id="para6">📁 Cümle yapısı</p>
-    <!-- <ul>
+    <p id="para6">📁 Atelier d'écriture / Yazma atölyesi</p>
+     <ul>
+        <li><a href="fr/ecriture/Vater_und_Sohn_tr.pdf" dowload="" target="_blank"><p id="para4">📄 <i> Vater und Sohn / Baba ve Oğul </p></a></li>
+        <li><a href="fr/ecriture/Vater_und_Sohn_talimat.pdf" dowload="" target="_blank"><p id="para4">📄  Talimatlar</p></a></li>
+        <li><a href="fr/ecriture/Vater_und_Sohn.pdf " dowload="" target="_blank"><p id="para4">📄 Çizgi romanlar  </p></a></li>
+        <!--<li><a href="fr/ " dowload="" target="_blank"><p id="para4">📄 Örnek  </p></a></li>-->
+    </ul>
+    <!--<p id="para6">📁 Cümle yapısı</p>
+     <ul>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
