@@ -12,7 +12,7 @@
      <center><h1 id="h1">Türkçe / Français </h1></center>
       <br>
       <div class="w3-bar w3-black">
-        <button class="w3-bar-item w3-button" onclick="openCity('Ac')">Acceuil</button>
+        <button class="w3-bar-item w3-button" onclick="openCity('Ac')">Accueil</button>
         <button class="w3-bar-item w3-button" onclick="openCity('turc')">Turc</button>
         <button class="w3-bar-item w3-button" onclick="openCity('français')">Fransızca</button>
         <!-- <button class="w3-bar-item w3-button" onclick="openCity('Info')">Informatique</button>
