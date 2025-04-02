@@ -129,10 +129,14 @@
         <li><a href="fr/ecriture/Vater_und_Sohn.pdf " dowload="" target="_blank"><p id="para4">📄 Çizgi romanlar  </p></a></li>
         <!--<li><a href="fr/ " dowload="" target="_blank"><p id="para4">📄 Örnek  </p></a></li>-->
     </ul>
-        <div id="passwordForm">
-        <label for="password">Entrez le mot de passe :</label>
+       <div id="loginForm">
+        <label for="username">Nom d'utilisateur :</label>
+        <input type="text" id="username" />
+        <br>
+        <label for="password">Mot de passe :</label>
         <input type="password" id="password" />
-        <button onclick="checkPassword()">Valider</button>
+        <br>
+        <button onclick="checkCredentials()">Valider</button>
     </div>
     <!-- Contenu protégé -->
     <div id="protectedContent" style="display: none;">
@@ -196,16 +200,20 @@
   }
  }
  </script>
-
-   <script>
-        function checkPassword() {
+<script>
+        function checkCredentials() {
+            var username = document.getElementById("username").value;
             var password = document.getElementById("password").value;
-            var correctPassword = "votreMotDePasse"; // Remplacez par votre mot de passe réel
-            if (password === correctPassword) {
+            
+            var correctUsername = "becanne"; // Remplacez par votre nom d'utilisateur réel
+            var correctPassword = "1234"; // Remplacez par votre mot de passe réel
+            
+            // Vérification du nom d'utilisateur et du mot de passe
+            if (username === correctUsername && password === correctPassword) {
                 document.getElementById("protectedContent").style.display = "block"; // Affiche le contenu protégé
-                document.getElementById("passwordForm").style.display = "none"; // Cache le formulaire de mot de passe
+                document.getElementById("loginForm").style.display = "none"; // Cache le formulaire de connexion
             } else {
-                alert("Mot de passe incorrect!");
+                alert("Nom d'utilisateur ou mot de passe incorrect!");
             }
         }
     </script>
