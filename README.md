@@ -140,9 +140,9 @@
     </div>
     <!-- Contenu protégé -->
     <div id="protectedContent" style="display: none;">
-        <p id="para6">📁 Atelier d'écriture / Yazma atölyesi</p>
+        <p id="para6">📁 Divers</p>
         <ul>
-            <li><a href="fr/ecriture/Vater_und_Sohn_tr.pdf" download="" target="_blank"><p id="para4">📄 <i> Vater und Sohn / Baba ve Oğul</i></p></a></li>
+            <li><a href="tr/Exemple-Vater_und_Sohn.pdf" download="" target="_blank"><p id="para4">📄 <i>  Exemple - Vater und Sohn / Baba ve Oğul</i></p></a></li>
             <li><a href="fr/ecriture/Vater_und_Sohn_talimat.pdf" download="" target="_blank"><p id="para4">📄  Talimatlar</p></a></li>
             <li><a href="fr/ecriture/Vater_und_Sohn.pdf" download="" target="_blank"><p id="para4">📄 Çizgi romanlar  </p></a></li>
             <!--<li><a href="fr/" download="" target="_blank"><p id="para4">📄 Örnek  </p></a></li>-->
