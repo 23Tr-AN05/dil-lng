@@ -129,6 +129,21 @@
         <li><a href="fr/ecriture/Vater_und_Sohn.pdf " dowload="" target="_blank"><p id="para4">📄 Çizgi romanlar  </p></a></li>
         <!--<li><a href="fr/ " dowload="" target="_blank"><p id="para4">📄 Örnek  </p></a></li>-->
     </ul>
+        <div id="passwordForm">
+        <label for="password">Entrez le mot de passe :</label>
+        <input type="password" id="password" />
+        <button onclick="checkPassword()">Valider</button>
+    </div>
+    <!-- Contenu protégé -->
+    <div id="protectedContent" style="display: none;">
+        <p id="para6">📁 Atelier d'écriture / Yazma atölyesi</p>
+        <ul>
+            <li><a href="fr/ecriture/Vater_und_Sohn_tr.pdf" download="" target="_blank"><p id="para4">📄 <i> Vater und Sohn / Baba ve Oğul</i></p></a></li>
+            <li><a href="fr/ecriture/Vater_und_Sohn_talimat.pdf" download="" target="_blank"><p id="para4">📄  Talimatlar</p></a></li>
+            <li><a href="fr/ecriture/Vater_und_Sohn.pdf" download="" target="_blank"><p id="para4">📄 Çizgi romanlar  </p></a></li>
+            <!--<li><a href="fr/" download="" target="_blank"><p id="para4">📄 Örnek  </p></a></li>-->
+        </ul>
+    </div>
     <!--<p id="para6">📁 Cümle yapısı</p>
      <ul>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
@@ -181,3 +196,16 @@
   }
  }
  </script>
+
+   <script>
+        function checkPassword() {
+            var password = document.getElementById("password").value;
+            var correctPassword = "votreMotDePasse"; // Remplacez par votre mot de passe réel
+            if (password === correctPassword) {
+                document.getElementById("protectedContent").style.display = "block"; // Affiche le contenu protégé
+                document.getElementById("passwordForm").style.display = "none"; // Cache le formulaire de mot de passe
+            } else {
+                alert("Mot de passe incorrect!");
+            }
+        }
+    </script>
