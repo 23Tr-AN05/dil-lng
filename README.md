@@ -138,7 +138,7 @@
     </ul>
     <p id="para6">📁 Phonétique et lecture /  telafuz ve okuma</p>
      <ul>
-        <li><a href="fr/grm/sujet-tonique.pdf" dowload="" target="_blank"><p id="para4">📄 Prononciation -/a/-/e/-/u/-/s/  | Telfuz--/a/-/e/-/u/-/s/  </p></a></li>
+        <li><a href="fr/telafuz/Telafuz_a_e_u.pdf" dowload="" target="_blank"><p id="para4">📄 Prononciation -/a/-/e/-/u/-/s/  | Telfuz--/a/-/e/-/u/-/s/  </p></a></li>
         <!--<li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à" et l'ablatif "de"</p></a></li>-->
         <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
