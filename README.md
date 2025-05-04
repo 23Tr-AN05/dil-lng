@@ -115,12 +115,12 @@
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
     </ul>
-    <p id="para6">📁 Kendimi tanıtıyorum</p>
+    <p id="para6">📁 Kendimi tanıtıyorum / Je me présente</p>
       <ul>
         <li><a href="fr/1    " dowload="" target="_blank"><p id="para4">📄 Fransızca kendini tanıtma   </p></a></li>
-        <li><a href="fr    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <!--<li><a href="fr    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
     </ul>
     <p id="para6">📁 Atelier d'écriture / Yazma atölyesi</p>
      <ul>
@@ -128,6 +128,20 @@
         <li><a href="fr/ecriture/Vater_und_Sohn_talimat.pdf" dowload="" target="_blank"><p id="para4">📄  Talimatlar</p></a></li>
         <li><a href="fr/ecriture/Vater_und_Sohn.pdf " dowload="" target="_blank"><p id="para4">📄 Çizgi romanlar  </p></a></li>
         <!--<li><a href="fr/ " dowload="" target="_blank"><p id="para4">📄 Örnek  </p></a></li>-->
+    </ul>
+      <p id="para6">📁 Grammaire /  dil bilgisi</p>
+     <ul>
+        <li><a href="fr/grm/sujet-tonique.pdf" dowload="" target="_blank"><p id="para4">📄 Pronom sujet / Tonique - Kişi / Vurgu Zamirleri </p></a></li>
+        <!--<li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à" et l'ablatif "de"</p></a></li>-->
+        <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
+    </ul>
+    <p id="para6">📁 Phonétique et lecture /  telafuz ve okuma</p>
+     <ul>
+        <li><a href="fr/grm/sujet-tonique.pdf" dowload="" target="_blank"><p id="para4">📄 Prononciation -/a/-/e/-/u/-/s/  | Telfuz--/a/-/e/-/u/-/s/  </p></a></li>
+        <!--<li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à" et l'ablatif "de"</p></a></li>-->
+        <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
     </ul>
        <div id="loginForm">
         <label for="username">Nom d'utilisateur :</label>
@@ -144,8 +158,8 @@
         <ul>
             <li><a href="tr/Exemple-Vater_und_Sohn.pdf" download="" target="_blank"><p id="para4">📄 <i>  Exemple - Vater und Sohn / Baba ve Oğul</i></p></a></li>
             <li><a href="fr/telafuz/Mon_Cahier_de_math.pdf" download="" target="_blank"><p id="para4">📄  Cahier de math</p></a></li>
-            <!--<li><a href="fr/ecriture/Vater_und_Sohn.pdf" download="" target="_blank"><p id="para4">📄 Çizgi romanlar  </p></a></li>
-            sss!--<li><a href="fr/" download="" target="_blank"><p id="para4">📄 Örnek  </p></a></li>-->
+            <li><a href="fr/grm/sujet-tonique_correction.pdf" download="" target="_blank"><p id="para4">📄 Correction- sujets-toniques </p></a></li>
+            <!--<li><a href="fr/" download="" target="_blank"><p id="para4">📄 Örnek  </p></a></li>-->
         </ul>
     </div>
     <!--<p id="para6">📁 Cümle yapısı</p>
