@@ -27,7 +27,7 @@
        <p id="para33">Si vous avez des questions vous pouvez envoyer un mail en choissisant la langue sur laquelle votre question se porte. Je vous réponderai plutôt possible par mail ou vous pouvez consulter l'onglet "forum", où je mettrais certaines questions avec leur réponse. 
        <br>&nbsp;&nbsp;&nbsp;⯑ &nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BMat%5D&body=J'ai%20une%20question%20sur%20le%20turc%20(ne%20changez%20pas%20l'objet%20du%20mail).">Turc / Türkçe</a>
        <br>&nbsp;&nbsp;&nbsp;⯑&nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BFR%5D&body=Ma%20question%20se%20porte%20sur%20le%20français%20 (ne%20changez%20pas%20l'objet%20du%20mail).">Français / Fransızca</a>
-       <br> &nbsp;&nbsp;&nbsp; ‼‽ &nbsp;<a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BErreur%5D&body=Ma%20question%20se%20porte%20sur%20le%20français%20 (ne%20changez%20pas%20l'objet%20du%20mail).%0ADans%20l'onglet:%0ANom%20du%20fichier:%0AErreur:">Je signale une erreur!</a>
+       <br> &nbsp;&nbsp;&nbsp; ‼‽ &nbsp;<a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BErreur%5D&body=(ne%20changez%20pas%20l'objet%20du%20mail).%0ADans%20l'onglet:%0ANom%20du%20fichier:%0AErreur:">Je signale une erreur!</a>
        </p></div>
        <p><font style="color:red"><b>L'onglet Forum</b> est actuellement <b>vide</b>, donc l'onglet est désactivé temporairement (je l'activerai dès lors que j'aurais une question posée)</font></p>
      </div>
@@ -36,9 +36,9 @@
         <p id="para3">Bu site, fransızca öğrenenlere yardım amaçlı yapılmıştır. Bu sayfada,  kullanbileceğiniz fransızca üzerine bazı dersler ve alıştırmalar bulunmaktadır.</p>
         <div id="center">
           <p id="para33">Herhangi bir sorunuz varsa, sorunuzun ilgili olduğu dili seçerek bana bir e-posta gönderebilirsiniz. Mümkün olan en kısa sürede e-posta ile cevap vereceğim veya bazı soruları cevaplarıyla birlikte  “forum” sekmesine koyacağım. 
-          <br>&nbsp;&nbsp;&nbsp;⯑ &nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BMat%5D&b   body=J'ai%20une%20question%20sur%20le%20turc%20(ne%20changez%20pas%20l'objet%20du%20mail).">Turc / Türkçe</a>
-          <br>&nbsp;&nbsp;&nbsp;⯑&nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BFR%5D&body=Ma%20question%20se%20porte%20sur%20le%20français%20 (ne%20changez%20pas%20l'objet%20du%20mail).">Français / Fransızca</a>
-          <br> &nbsp;&nbsp;&nbsp; ‼‽ &nbsp;<a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BErreur%5D&body=Ma%20question%20se%20porte%20sur%20le%20français%20 (ne%20changez%20pas%20l'objet%20du%20mail).%0ADans%20l'onglet:%0ANom%20du%20fichier:%0AErreur:">Je signale une erreur!</a>
+          <br>&nbsp;&nbsp;&nbsp;⯑ &nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question %5BTr%5D&b   body=J'ai%20une%20question%20sur%20le%20turc%20(ne%20changez%20pas%20l'objet%20du%20mail).">Turc / Türkçe</a>
+          <br>&nbsp;&nbsp;&nbsp;⯑&nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=Sorum var%5BFR%5D&body=Adınız: %0ASorunuzu%20aşağıya %20yazınız%20 (lütfen%20mailin%20konusunu%20değiştirmeyin).">Français / Fransızca</a>
+          <br> &nbsp;&nbsp;&nbsp; ‼‽ &nbsp;<a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BErreur%5D&body=(ne%20changez%20pas%20l'objet%20du%20mail).%0ADans%20l'onglet:%0ANom%20du%20fichier:%0AErreur:">Je signale une erreur!</a>
         </p></div>
        <p><font style="color:red"><b>Forum sekmesi şu anda boş, bu nedenle geçici olarak devre dışı bırakıldı (bir soru sorulduğunda olduğunda etkinleştireceğim).</b></font></p>
        </div>
