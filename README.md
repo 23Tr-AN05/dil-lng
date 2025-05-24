@@ -134,7 +134,8 @@
         <!--<li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à" et l'ablatif "de"</p></a></li>-->
         <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
-    </ul></div>
+    </ul>
+ </div>
    <button onclick="myFunction('Demo6')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📁Vocabulaire /  Kelime Haznesi</p></button>
      <div id="Demo6" class="w3-hide w3-container w3-light-grey">  
       <div id="center">
@@ -161,7 +162,7 @@
         <li><a href="fr/ecriture/Vater_und_Sohn_talimat.pdf" dowload="" target="_blank"><p id="para4">📄  Talimatlar</p></a></li>
         <li><a href="fr/ecriture/Vater_und_Sohn.pdf " dowload="" target="_blank"><p id="para4">📄 Çizgi romanlar  </p></a></li>
         <!--<li><a href="fr/ " dowload="" target="_blank"><p id="para4">📄 Örnek  </p></a></li>-->
-    </ul></div>
+    </ul></div><br>
        <div id="loginForm">
         <label for="username">Nom d'utilisateur :</label>
         <input type="text" id="username" />
