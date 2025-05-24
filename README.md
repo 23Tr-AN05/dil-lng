@@ -130,7 +130,7 @@
      <div id="center">
       <p id="para33" style="border: 1px solid black; padding: 10px;">🔊  seblünden sonra linkler bulunmaktadır. 🔊  seblünden sonra bulunan linklere tıklayarak bazı video ya da ses dosyasına ulaşabilirsiniz.<br>Bunlar ya konuyu anlatmak için kullanılan metnin okunuşudur ya da yardımcı olabilecek başka kaynaklardır  </p></div>
      <ul>
-        <li><a href="fr/telafuz/Telafuz_a_e_u.pdf" dowload="" target="_blank"><p id="para4">📄 Prononciation -/a/-/e/-/u/-/s/  | Telfuz--/a/-/e/-/u/-/s/<br>🔊    <a href="https://www.youtube.com/watch?v=zDEYDvdujXI"><i> Je n’ai plus que les os, un squelette je semble</i>, Ronsard  </p></a></li>
+        <li><a href="fr/telafuz/Telafuz_a_e_u.pdf" dowload="" target="_blank"><p id="para4">📄 Prononciation -/a/-/e/-/u/-/s/  | Telfuz--/a/-/e/-/u/-/s/<br>🔊    <a href="https://www.youtube.com/watch?v=zDEYDvdujXI"><i> Je n’ai plus que les os, un squelette je semble</i>, Ronsard </a> </p></a></li>
         <!--<li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à" et l'ablatif "de"</p></a></li>-->
         <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
