@@ -139,7 +139,7 @@
    <button onclick="myFunction('Demo6')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📁Vocabulaire /  Kelime Haznesi</p></button>
      <div id="Demo6" class="w3-hide w3-container w3-light-grey">  
       <div id="center">
-      <p id="para33" style="border: 1px solid black; padding: 10px;">Burada bulacağınız kelimele listelerinin adı Kelime sandığı dır. Bu listeler günlük Fransızca fa en en çok kullanılan kelimelerden oluşmaktadır.<br>Bu listelerde 🔊  seblünden sonra linkler bulunmaktadır. 🔊  seblünden sonra bulunan linklere tıklayarak kelimelerin telafuzlarını dinleyebilirsiniz  </p></div>
+      <p id="para33" style="border: 1px solid black; padding: 10px;">Burada bulacağınız kelimele listelerinin adı Kelime sandığı dır. Bu listeler günlük Fransızca da en en çok kullanılan kelimelerden oluşmaktadır.<br>Bu listelerde 🔊  seblünden sonra linkler bulunmaktadır. 🔊  seblünden sonra bulunan linklere tıklayarak kelimelerin telafuzlarını dinleyebilirsiniz  </p></div>
      <ul>
         <li><a href="fr/vocabulaire/Haftanın_günleri.pdf" dowload="" target="_blank"><p id="para4">📄 Takvim / Calendrier</p></a></li>
         <!--<li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à" et l'ablatif "de"</p></a></li>-->
