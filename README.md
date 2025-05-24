@@ -108,41 +108,60 @@
  <div id="français" class="w3-container city"  style="display:none">
    <p id="para1">Fransızca / Français </p>
    <p id="para3"><a href="fr/ctd.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Ajanda</u></font>  </a>ve  <a href="fr/proverbe.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> deyimler</u></font></a>  . </p>
+    <!--<button onclick="myFunction('Demo1')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📁 Cümle yapısı</p></button>
+     <div id="Demo1" class="w3-hide w3-container w3-light-grey">  -->
     <p id="para6">📁 Cümle yapısı</p>
       <ul>
         <li><a href="fr/FrvsTr.pdf" dowload="" target="_blank"><p id="para4">📄 Türkçe VS Fransızca   </p></a></li>
         <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
-    </ul>
+    </ul><!--</div>-->
+    <button onclick="myFunction('Demo4')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📁 Grammaire /  dil bilgisi</p></button>
+     <div id="Demo4" class="w3-hide w3-container w3-light-grey">  
+     <ul>
+        <li><a href="fr/grm/sujet-tonique.pdf" dowload="" target="_blank"><p id="para4">📄 Pronom sujet / Tonique - Kişi / Vurgu Zamirleri </p></a></li>
+        <!--<li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à" et l'ablatif "de"</p></a></li>-->
+        <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
+    </ul></div>
+   <button onclick="myFunction('Demo5')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📁 Phonétique et lecture /  telafuz ve okuma</p></button>
+     <div id="Demo5" class="w3-hide w3-container w3-light-grey">  
+     <div id="center">
+      <p id="para33" style="border: 1px solid black; padding: 10px;">🔊  seblünden sonra linkler bulunmaktadır. 🔊  seblünden sonra bulunan linklere tıklayarak bazı video ya da ses dosyasına ulaşabilirsiniz.<br>Bunlar ya konuyu anlatmak için kullanılan metnin okunuşudur ya da yardımcı olabilecek başka kaynaklardır  </p></div>
+     <ul>
+        <li><a href="fr/telafuz/Telafuz_a_e_u.pdf" dowload="" target="_blank"><p id="para4">📄 Prononciation -/a/-/e/-/u/-/s/  | Telfuz--/a/-/e/-/u/-/s/<br>🔊    <a href="https://www.youtube.com/watch?v=zDEYDvdujXI"><i> Je n’ai plus que les os, un squelette je semble</i>, Ronsard  </p></a></li>
+        <!--<li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à" et l'ablatif "de"</p></a></li>-->
+        <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
+    </ul></div>
+   <button onclick="myFunction('Demo6')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📁Vocabulaire /  Kelime Haznesi</p></button>
+     <div id="Demo6" class="w3-hide w3-container w3-light-grey">  
+      <div id="center">
+      <p id="para33" style="border: 1px solid black; padding: 10px;">Burada bulacağınız kelimele listelerinin adı Kelime sandığı dır. Bu listeler günlük Fransızca fa en en çok kullanılan kelimelerden oluşmaktadır.<br>Bu listelerde 🔊  seblünden sonra linkler bulunmaktadır. 🔊  seblünden sonra bulunan linklere tıklayarak kelimelerin telafuzlarını dinleyebilirsiniz  </p></div>
+     <ul>
+        <li><a href="fr/vocabulaire/Haftanın_günleri.pdf" dowload="" target="_blank"><p id="para4">📄 Takvim / Calendrier</p></a></li>
+        <!--<li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à" et l'ablatif "de"</p></a></li>-->
+        <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
+    </ul></div>
+    <!--<button onclick="myFunction('Demo2')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📁 Cümle yapısı</p></button>
+     <div id="Demo2" class="w3-hide w3-container w3-light-grey">  -->
     <p id="para6">📁 Kendimi tanıtıyorum / Je me présente</p>
       <ul>
         <li><a href="fr/1    " dowload="" target="_blank"><p id="para4">📄 Fransızca kendini tanıtma   </p></a></li>
         <!--<li><a href="fr    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
         <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
-    </ul>
-    <p id="para6">📁 Atelier d'écriture / Yazma atölyesi</p>
+    </ul><!--</div>-->
+    <button onclick="myFunction('Demo3')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📁 Atelier d'écriture / Yazma atölyesi</p></button>
+     <div id="Demo3" class="w3-hide w3-container w3-light-grey">  
      <ul>
         <li><a href="fr/ecriture/Vater_und_Sohn_tr.pdf" dowload="" target="_blank"><p id="para4">📄 <i> Vater und Sohn / Baba ve Oğul</i></p></a></li>
         <li><a href="fr/ecriture/Vater_und_Sohn_talimat.pdf" dowload="" target="_blank"><p id="para4">📄  Talimatlar</p></a></li>
         <li><a href="fr/ecriture/Vater_und_Sohn.pdf " dowload="" target="_blank"><p id="para4">📄 Çizgi romanlar  </p></a></li>
         <!--<li><a href="fr/ " dowload="" target="_blank"><p id="para4">📄 Örnek  </p></a></li>-->
-    </ul>
-      <p id="para6">📁 Grammaire /  dil bilgisi</p>
-     <ul>
-        <li><a href="fr/grm/sujet-tonique.pdf" dowload="" target="_blank"><p id="para4">📄 Pronom sujet / Tonique - Kişi / Vurgu Zamirleri </p></a></li>
-        <!--<li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à" et l'ablatif "de"</p></a></li>-->
-        <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
-    </ul>
-    <p id="para6">📁 Phonétique et lecture /  telafuz ve okuma</p>
-     <ul>
-        <li><a href="fr/telafuz/Telafuz_a_e_u.pdf" dowload="" target="_blank"><p id="para4">📄 Prononciation -/a/-/e/-/u/-/s/  | Telfuz--/a/-/e/-/u/-/s/  </p></a></li>
-        <!--<li><a href="tr/e.pdf " dowload="" target="_blank"><p id="para4">📄  directif "à" et l'ablatif "de"</p></a></li>-->
-        <!--<li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
-        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>-->
-    </ul>
+    </ul></div>
        <div id="loginForm">
         <label for="username">Nom d'utilisateur :</label>
         <input type="text" id="username" />
@@ -231,3 +250,21 @@
             }
         }
     </script>
+
+
+
+
+ <script>
+ function myFunction(id) {
+  var x = document.getElementById(id);
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+    x.previousElementSibling.className = 
+    x.previousElementSibling.className.replace("w3-white", "w3-yellow");
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+    x.previousElementSibling.className = 
+    x.previousElementSibling.className.replace("w3-yellow", "w3-white");
+  }
+ }
+ </script>
