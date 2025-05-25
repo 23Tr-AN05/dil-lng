@@ -179,6 +179,7 @@
             <li><a href="tr/Exemple-Vater_und_Sohn.pdf" download="" target="_blank"><p id="para4">📄 <i>  Exemple - Vater und Sohn / Baba ve Oğul</i></p></a></li>
             <li><a href="fr/telafuz/Mon_Cahier_de_math.pdf" download="" target="_blank"><p id="para4">📄  Cahier de math</p></a></li>
             <li><a href="fr/grm/sujet-tonique_correction.pdf" download="" target="_blank"><p id="para4">📄 Correction- sujets-toniques </p></a></li>
+            <li><a href="divers/Jeux_d_echecs.pdf" dowload="" target="_black"><p id="para4">📄  - Échecs</p></a></li>
             <!--<li><a href="fr/" download="" target="_blank"><p id="para4">📄 Örnek  </p></a></li>-->
         </ul>
     </div>
